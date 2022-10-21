@@ -5,7 +5,7 @@ TODAY=`date +%Y%m%d`
 #Time
 TS=`date +%H%M%S`
 
-MAIL=senih.ucar@phsa.ca
+MAIL=senihucar@yahoo.com
 
 # directory to backup 1st
 BDIR1=/home/folder1
