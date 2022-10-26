@@ -18,7 +18,7 @@ DDIR="/backup"
 # the name of the destionation machine
 BSERVER=linux2
 
-# your password on the destionation server
+# your password on the destionation server use SHA crypted
 #export RSYNC_PASSWORD=XXXXXX
 
 #HOSTNAME (Script run on this host)
